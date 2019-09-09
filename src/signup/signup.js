@@ -111,7 +111,7 @@ class SignupComponent extends React.Component {
                         this.props.history.push('/dashboard');
                     }, dbErr => {
                         console.log('Failed to add user to the database: ', dbErr);
-                        this.setState({ signupError: 'Failed to add user' });
+                        this.setState({ signupError: 'Failed to Sign Up' });
                     });
             }, authErr => {
                 console.log('Failed to create user: ', authErr);
