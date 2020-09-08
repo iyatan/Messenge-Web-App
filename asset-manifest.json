@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Messenger-Web-App/static/css/main.34de6062.chunk.css",
+    "main.js": "/Messenger-Web-App/static/js/main.3e88450a.chunk.js",
+    "main.js.map": "/Messenger-Web-App/static/js/main.3e88450a.chunk.js.map",
+    "runtime~main.js": "/Messenger-Web-App/static/js/runtime~main.ae305025.js",
+    "runtime~main.js.map": "/Messenger-Web-App/static/js/runtime~main.ae305025.js.map",
+    "static/js/2.4268077e.chunk.js": "/Messenger-Web-App/static/js/2.4268077e.chunk.js",
+    "static/js/2.4268077e.chunk.js.map": "/Messenger-Web-App/static/js/2.4268077e.chunk.js.map",
+    "index.html": "/Messenger-Web-App/index.html",
+    "precache-manifest.e850679e7d02d891464dca1c215d6cdf.js": "/Messenger-Web-App/precache-manifest.e850679e7d02d891464dca1c215d6cdf.js",
+    "service-worker.js": "/Messenger-Web-App/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/Messenger-Web-App/static/css/main.34de6062.chunk.css.map"
+  }
+}
